@@ -6,6 +6,7 @@
 - 📫 How to reach me: message me on [Linkedin](https://www.linkedin.com/in/sasha-golubeva-93b4b4106/)
 
 ### Other bioinformatics projects:
-- [Deduper](https://github.com/sgolubeva/Deduper-sgolubeva)
+
+- PCR duplicates removal tool, [Deduper](https://github.com/sgolubeva/Deduper-sgolubeva)
 - [QAA](https://github.com/sgolubeva/QAA)
 - [Demultiplex](https://github.com/sgolubeva/Demultiplex)
