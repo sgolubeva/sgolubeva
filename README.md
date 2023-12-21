@@ -8,5 +8,5 @@
 ### Other bioinformatics projects:
 
 - PCR duplicates removal tool, [Deduper](https://github.com/sgolubeva/Deduper-sgolubeva)
-- [QAA](https://github.com/sgolubeva/QAA)
-- [Demultiplex](https://github.com/sgolubeva/Demultiplex)
+- Start to end sequencing samples analysis [QAA](https://github.com/sgolubeva/QAA)
+- A tool for separating samples by the corresponding sequencing indexes [Demultiplex](https://github.com/sgolubeva/Demultiplex)
