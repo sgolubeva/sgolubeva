@@ -1,7 +1,5 @@
 ### Hi there 👋 My name is Sasha Golubeva
 
-
-
 - 🔭 I’m currently working on a Masters of Science degree in Bioinformatics and genomics at the University of Oregon. My research project is focusing on using machine learning to model mouse behavioral data. (https://github.com/sgolubeva/ml_hmm_mice)
 - 🌱 I’m currently learning machine learning best practices, Python and R.
 - 💬 Ask me about my career as a molecular biologist transitioning to data science
@@ -9,6 +7,6 @@
 
 ### Other bioinformatics projects:
 
-    -[Deduper](https://github.com/sgolubeva/Deduper-sgolubeva)
-    -[QAA](https://github.com/sgolubeva/QAA)
-    -[Demultiplex](https://github.com/sgolubeva/Demultiplex)
+-[Deduper](https://github.com/sgolubeva/Deduper-sgolubeva)
+-[QAA](https://github.com/sgolubeva/QAA)
+-[Demultiplex](https://github.com/sgolubeva/Demultiplex)
