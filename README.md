@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning machine learning best practices, Python and R.
 - 💬 Ask me about my career as a molecular biologist transitioning to data science
 - 📫 How to reach me: message me on [Linkedin](https://www.linkedin.com/in/sasha-golubeva-93b4b4106/)
-- Other bioinformatics projects:
+
+###Other bioinformatics projects:
     -[Deduper](https://github.com/sgolubeva/Deduper-sgolubeva)
     -[QAA](https://github.com/sgolubeva/QAA)
     -[Demultiplex](https://github.com/sgolubeva/Demultiplex)
